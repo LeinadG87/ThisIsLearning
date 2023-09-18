@@ -8,3 +8,6 @@ hrs = input("Enter Hours: ")
 rate = input("Enter Hourly Rate of Pay : ")
 pay = float(hrs) * float(rate)
 print("Pay:", pay)
+
+
+#this is me editing directly in gitbut
